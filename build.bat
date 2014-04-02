@@ -1,0 +1,1 @@
+call .\tools\psake-4.3.2\psake.cmd build.ps1 %*
